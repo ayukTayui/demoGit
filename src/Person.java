@@ -4,4 +4,6 @@ public class Person {
     public Person(String name){
         this.name = name;
     }
+
+    public void signin(String name){}
 }
